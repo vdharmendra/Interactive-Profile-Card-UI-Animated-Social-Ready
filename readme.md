@@ -29,29 +29,29 @@ A sleek, animated profile card component with integrated social media links. Des
 
 <br>
 <span>👉 Desktop Design</span><br/>
-<a href="#" target="_blank" >
-<img src="." width="575px"/>
+<a href="https://www.behance.net/gallery/223724249/Interactive-Profile-Card-UI-Animated-Social-Ready" target="_blank" >
+<img src="./img/InteractiveProfileCard.gif" width="575px"/>
 </a>
 
 <br>
 <span>👉 Desktop UI UX Design</span><br/>
-<a href="#" target="_blank" >
-<img src="." width="575px"/>
+<a href="https://www.behance.net/gallery/223724249/Interactive-Profile-Card-UI-Animated-Social-Ready" target="_blank" >
+<img src="./img/InteractiveProfileCardUIUXLayout.gif" width="575px"/>
 </a>
 <br />
 <span>📸 Desktop Design UI UX Layout</span><br/>
-<a href="#" target="_blank" >
-<img src="." width="325px"/>
-
+<a href="https://www.behance.net/gallery/223724249/Interactive-Profile-Card-UI-Animated-Social-Ready" target="_blank" >
+<img src="./img/InteractiveProfileCardUIUXLayout.png" width="325px"/>
+<img src="./img/InteractiveProfileCardHoverUIUXLayout.png" width="325px"/>
 </a>
 <br />
 <span>📸 Desktop Design</span><br/>
-<a href="#" target="_blank" >
-<img src="." width="325px"/>
-<img src="." width="325px"/>
+<a href="https://www.behance.net/gallery/223724249/Interactive-Profile-Card-UI-Animated-Social-Ready" target="_blank" >
+<img src="./img/InteractiveProfileCard.png" width="325px"/>
+<img src="./img/InteractiveProfileCardHover.png" width="325px"/>
 </a>
 
 <span>Cover</span><br/>
-<a href="#" target="_blank" >
-<img src="./cover.png" width="575px"/>
+<a href="https://www.behance.net/gallery/223724249/Interactive-Profile-Card-UI-Animated-Social-Ready" target="_blank" >
+<img src="./img/cover.png" width="575px"/>
 </a>
